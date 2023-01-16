@@ -1,0 +1,27 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+h3 {
+    text-align: center;
+}
+
+.sottolineato {
+    text-decoration: underline;
+}
+
+.sfondo_giallo {
+    background-color: yellow;
+}
+
+.quadrato {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+
+
